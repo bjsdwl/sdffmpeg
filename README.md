@@ -8,4 +8,4 @@ Windows 64-bit FFmpeg shared libraries for sdcodec.
 - Source: https://github.com/FFmpeg/FFmpeg/commit/e0723b7e4e
 - License: GPL v3
 
-Contents (inside `ffmpeg/`): `include/`, `libx64/*.lib`, `bin/*.dll`.
+Contents at zip root: `include/`, `libx64/*.lib`, `bin/*.dll`, `LICENSE`.
